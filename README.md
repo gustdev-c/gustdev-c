@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gustdev-c)](https://git.io/awesome-stats-card)
 <!--
 **gustdev-c/gustdev-c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
