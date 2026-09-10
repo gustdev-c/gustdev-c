@@ -1,4 +1,11 @@
-## Hi there 👋
+> Once again swayed by the early summer breeze
+
+# Gust
+- Indie Developer and Programmer
+- 18 years old
+- Kinda low level (mostly C++)
+- I just do whatever
+- No projects in this profile use any AI or agents whatsoever
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gustdev-c?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
