@@ -6,6 +6,7 @@
 - Kinda low level (mostly C++)
 - I just do whatever
 - No projects in this profile use any AI or agents whatsoever
+- Unless I'm working on some group bullshit (bleh)
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gustdev-c?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 <!--
