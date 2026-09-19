@@ -1,5 +1,5 @@
 > Once again swayed by the early summer breeze
-> Shoka, Ado 🌹
+> - Shoka, Ado 🌹
 
 <img width="498" height="498" alt="image" src="https://github.com/user-attachments/assets/1b7e9fa2-41c1-4dc7-b5a2-1eb2924fe21c" />
 
