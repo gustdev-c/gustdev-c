@@ -15,6 +15,7 @@ Recruitability can go to hell I'm not working for a company
 
 ### Current Projects
 - Personal site
+- Desktop Pet
 - Temporuinary (videogame)
 - Drawing app
 
